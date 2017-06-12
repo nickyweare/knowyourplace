@@ -1,0 +1,13 @@
+$icon-font-path: '../fonts/';
+
+// Bootstrap
+@import "bower_components/bootstrap/scss/bootstrap.scss";
+
+// Custom
+@import "partials/colors";
+@import "partials/global";
+@import "partials/mixins";
+@import "partials/buttons";
+@import "partials/nav";
+@import "partials/heros";
+@import "partials/forms";
